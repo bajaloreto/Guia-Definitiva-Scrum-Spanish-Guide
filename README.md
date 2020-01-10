@@ -1,4 +1,4 @@
-# La Guía Definitiva de Scrum: Las Reglas del Juego
+# La Guía Definitiva de Scrum™: Las Reglas del Juego
 
 Ultima revision: Noviembre de 2017
 
